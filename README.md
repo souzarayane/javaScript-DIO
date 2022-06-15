@@ -2,7 +2,7 @@
 Projetos práticos com JavaScript puro. Aulas referentes ao Decola Tech #3 da DIO.
 ### Conteúdo
 * Introdução ao JavaScript
-* Sintace Básica
+* Sintaxe Básica
 * Sintaxe e Operadores
 * Variáveis e Tipos
 * Funções
